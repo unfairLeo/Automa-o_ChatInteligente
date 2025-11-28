@@ -4,4 +4,5 @@ Instruções para o chat dar certo:
 2 - Criar uma API key no site: https://console.groq.com/keys
 3 - Ter uma tabela que seja veridica ao dados dentro do nó editfields
 
-OBSERVAÇAO: Base de dados de exemplo estara aqui caso queira copiar os nomes e para ver que realmente funciona.
+
+OBSERVAÇAO: Utilizei uma base de dados do Google Sheets para deixar acumulado os testes.
