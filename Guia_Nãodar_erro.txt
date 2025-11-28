@@ -1,0 +1,7 @@
+Instruções para o chat dar certo:
+
+1 - importar
+2 - Criar uma API key no site: https://console.groq.com/keys
+3 - Ter uma tabela que seja veridica ao dados dentro do nó editfields
+
+OBSERVAÇAO: Base de dados de exemplo estara aqui caso queira copiar os nomes e para ver que realmente funciona.
